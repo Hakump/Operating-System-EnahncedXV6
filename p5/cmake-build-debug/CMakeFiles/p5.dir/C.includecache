@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/afs/cs.wisc.edu/u/z/h/zhikang/private/CS537/p5/fs.h
+
+/afs/cs.wisc.edu/u/z/h/zhikang/private/CS537/p5/kernel/file.h
+
+/afs/cs.wisc.edu/u/z/h/zhikang/private/CS537/p5/types.h
+
+/afs/cs.wisc.edu/u/z/h/zhikang/private/CS537/p5/xcheck.c
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+string.h
+-
+sys/stat.h
+-
+sys/mman.h
+-
+fcntl.h
+-
+fs.h
+/afs/cs.wisc.edu/u/z/h/zhikang/private/CS537/p5/fs.h
+types.h
+/afs/cs.wisc.edu/u/z/h/zhikang/private/CS537/p5/types.h
+kernel/file.h
+/afs/cs.wisc.edu/u/z/h/zhikang/private/CS537/p5/kernel/file.h
+

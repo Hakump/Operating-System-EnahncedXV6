@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/p5.dir/xcheck.c.o  -o p5 
