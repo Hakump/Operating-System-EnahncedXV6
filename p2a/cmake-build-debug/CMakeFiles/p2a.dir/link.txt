@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -rdynamic CMakeFiles/p2a.dir/wish.c.o  -o p2a 

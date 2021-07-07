@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="p2a" targetName="p2a" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="494f994f-c65a-4875-a56e-4ff8b32cabfb" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FavoritesManager">
+    <favorites_list name="p2a" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wish.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4730">
+              <caret line="215" selection-start-line="215" selection-end-line="215" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>num_his</find>
+      <find>getl</find>
+      <find>gcc</find>
+      <find>execv</find>
+      <find>printf</find>
+      <find>error</find>
+      <find>mall</find>
+      <find>GP</find>
+      <find>error_m</find>
+      <find>I am in</find>
+      <find>next</find>
+      <find>print</find>
+      <find>ERR</find>
+      <find>open</find>
+      <find>allo</find>
+      <find>current</find>
+      <find>run</find>
+      <find>fflush</find>
+      <find>redirect</find>
+      <find>buildi</find>
+      <find>buildin_</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/main.c" />
+        <option value="&lt;f129ec75-b5c4-4d85-94b1-ad3c64ef86df&gt;/private/CS537/p2a/p2a/op.c" />
+        <option value="$PROJECT_DIR$/mode.c" />
+        <option value="&lt;f129ec75-b5c4-4d85-94b1-ad3c64ef86df&gt;/private/CS537/p2a/wish.c" />
+        <option value="&lt;f129ec75-b5c4-4d85-94b1-ad3c64ef86df&gt;/private/CS537/p2a/p2a/path/in" />
+        <option value="&lt;f129ec75-b5c4-4d85-94b1-ad3c64ef86df&gt;/private/CS537/p2a/p2a/badexec/in" />
+        <option value="&lt;f129ec75-b5c4-4d85-94b1-ad3c64ef86df&gt;/private/CS537/p2a/p2a/cd/in" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="&lt;f129ec75-b5c4-4d85-94b1-ad3c64ef86df&gt;/private/CS537/p2b/xv6-sp19/kernel/sysfunc.h" />
+        <option value="&lt;f129ec75-b5c4-4d85-94b1-ad3c64ef86df&gt;/private/CS537/p2b/xv6-sp19/kernel/syscall.c" />
+        <option value="&lt;f129ec75-b5c4-4d85-94b1-ad3c64ef86df&gt;/private/CS537/p2b/xv6-sp19/include/syscall.h" />
+        <option value="&lt;f129ec75-b5c4-4d85-94b1-ad3c64ef86df&gt;/private/CS537/p2b/xv6-sp19/user/getopenedcount.c" />
+        <option value="&lt;f129ec75-b5c4-4d85-94b1-ad3c64ef86df&gt;/private/CS537/p2b/xv6-sp19/user/usys.S" />
+        <option value="&lt;f129ec75-b5c4-4d85-94b1-ad3c64ef86df&gt;/private/CS537/p2b/xv6-sp19/include/pstat.h" />
+        <option value="&lt;f129ec75-b5c4-4d85-94b1-ad3c64ef86df&gt;/private/CS537/p2b/xv6-sp19/user/user.h" />
+        <option value="&lt;f129ec75-b5c4-4d85-94b1-ad3c64ef86df&gt;/private/CS537/p2b/xv6-sp19/kernel/sysproc.c" />
+        <option value="&lt;f129ec75-b5c4-4d85-94b1-ad3c64ef86df&gt;/private/CS537/p1b/xv6-sp19/kernel/proc.c" />
+        <option value="&lt;f129ec75-b5c4-4d85-94b1-ad3c64ef86df&gt;/private/CS537/p2b/xv6-sp19/kernel/proc.h" />
+        <option value="&lt;f129ec75-b5c4-4d85-94b1-ad3c64ef86df&gt;/private/CS537/p2b/xv6-sp19/kernel/proc.c" />
+        <option value="&lt;f129ec75-b5c4-4d85-94b1-ad3c64ef86df&gt;/private/CS537/p2a/p2a/Makefile" />
+        <option value="$PROJECT_DIR$/wish.c" />
+        <option value="&lt;f129ec75-b5c4-4d85-94b1-ad3c64ef86df&gt;/private/CS537/p2a/p2a/wish.c" />
+      </list>
+    </option>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="p2a" type="b2602c69:ProjectViewProjectNode" />
+              <item name="p2a" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="p2a" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="p2a" TARGET_NAME="p2a" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="p2a" RUN_TARGET_NAME="p2a">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="494f994f-c65a-4875-a56e-4ff8b32cabfb" name="Default Changelist" comment="" />
+      <created>1549754243741</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549754243741</updated>
+      <workItem from="1549754251376" duration="3918000" />
+      <workItem from="1549815696482" duration="2437000" />
+      <workItem from="1549822710604" duration="2029000" />
+      <workItem from="1549826616160" duration="14000000" />
+      <workItem from="1549842698911" duration="11454000" />
+      <workItem from="1549932853088" duration="10641000" />
+      <workItem from="1550021515377" duration="18546000" />
+      <workItem from="1550111759646" duration="14485000" />
+      <workItem from="1550172765702" duration="35783000" />
+      <workItem from="1550293430546" duration="5079000" />
+      <workItem from="1550788987031" duration="13080000" />
+      <workItem from="1550940572378" duration="10733000" />
+      <workItem from="1550982750255" duration="625000" />
+      <workItem from="1551385237005" duration="1920000" />
+      <workItem from="1552881009671" duration="4524000" />
+      <workItem from="1553210476522" duration="5289000" />
+      <workItem from="1553659873469" duration="31000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="154574000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978903" visible="true" weight="0.11208054" />
+      <window_info id="Structure" order="1" sideWeight="0.5021097" side_tool="true" weight="0.11610738" />
+      <window_info id="Favorites" order="2" sideWeight="0.5021097" side_tool="true" weight="0.11610738" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3186969" />
+      <window_info anchor="bottom" id="CMake" order="11" weight="0.3286119" />
+      <window_info anchor="bottom" id="File Transfer" order="12" weight="0.3286119" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.3286119" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" visible="true" weight="0.15771812" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" x="0" y="0" width="337" height="638" id="Documentation" order="5" side_tool="true" weight="0.3295302" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/wish.c" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/mysh.c" />
+    <entry file="file://C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/x86_64-w64-mingw32/include/io.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="328" column="14" selection-start-line="328" selection-start-column="14" selection-end-line="328" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.c" />
+    <entry file="file://$PROJECT_DIR$/mode.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-801">
+          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.CLion2018.3/system/.remote/rockhopper-02.cs.wisc.edu_22/f129ec75-b5c4-4d85-94b1-ad3c64ef86df/usr/include/stdio.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="320" column="35" selection-start-line="320" selection-start-column="23" selection-end-line="320" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wish.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4730">
+          <caret line="215" selection-start-line="215" selection-end-line="215" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

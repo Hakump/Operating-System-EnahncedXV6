@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f129ec75-b5c4-4d85-94b1-ad3c64ef86df" name="Wisc (f129ec75-b5c4-4d85-94b1-ad3c64ef86df)" url="http:///">
+        <fileTransfer host="rockhopper-06.cs.wisc.edu" port="22" rootFolder="/afs/cs.wisc.edu/u/z/h/zhikang" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
